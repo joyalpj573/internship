@@ -9,6 +9,6 @@
 
 [FIFTH DAY](https://github.com/joyalpj573/internship/blob/main/5thday.md)
 
-[SIXTHDAY( 
+[SIXTHDAY](https://github.com/joyalpj573/internship/blob/main/6th%20day.md)
 
 [7THDAY](https://github.com/joyalpj573/internship/blob/main/7thday.md)
