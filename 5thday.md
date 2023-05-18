@@ -2,6 +2,6 @@
 
 ![image](https://github.com/joyalpj573/internship/blob/main/img/POTENTIOMETER.png)
 
-**7 SEGMENT
+**7 SEGMENT DISPLAY
 
 ![image](https://github.com/joyalpj573/internship/blob/main/img/7segment.png)
