@@ -51,7 +51,7 @@ void loop()
 
   if (inches<=10){
     
-      digitalWrite(13,HIGH);
+      digitalWrite(13,https://github.com/joyalpj573/internship/blob/main/img/SMART%20BIN.pngHIGH);
   }
   
   else {
@@ -60,5 +60,7 @@ void loop()
     
 }
 }
-```      
+``` 
+
+[!image](https://github.com/joyalpj573/internship/blob/main/img/SMART%20BIN.png)
  
