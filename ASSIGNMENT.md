@@ -22,7 +22,7 @@ long readUltrasonicDistance(int triggerPin, int echoPin)
   // Sets the trigger pin to HIGH state for 10 microseconds
   digitalWrite(triggerPin, HIGH);
   delayMicroseconds(10);
-  digitalWrite(triggerPin, LOW);
+  digitalWrite(triggerPin, LOW);https://github.com/joyalpj573/internship/blob/main/img/SMART%20BIN.png
   pinMode(echoPin, INPUT);
   // Reads the echo pin, and returns the sound wave travel time in microseconds
   return pulseIn(echoPin, HIGH);
@@ -61,6 +61,6 @@ void loop()
 }
 }
 ``` 
-
+![image](https://github.com/joyalpj573/internship/blob/main/img/SMART%20BIN.png)
 
  
