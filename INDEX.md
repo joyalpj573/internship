@@ -16,3 +16,5 @@
 [EIGHTHDAY](https://github.com/joyalpj573/internship/blob/main/8thday.md)
 
 [NINETHDAY](https://github.com/joyalpj573/internship/blob/main/9thday.md)
+
+[TENTHDAY](https://github.com/joyalpj573/internship/blob/main/10thday.md)
