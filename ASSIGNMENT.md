@@ -62,5 +62,5 @@ void loop()
 }
 ``` 
 
-[!image](https://github.com/joyalpj573/internship/blob/main/img/SMART%20BIN.png)
+
  
