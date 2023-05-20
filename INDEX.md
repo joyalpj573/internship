@@ -12,3 +12,5 @@
 [SIXTHDAY](https://github.com/joyalpj573/internship/blob/main/6th%20day.md)
 
 [7THDAY](https://github.com/joyalpj573/internship/blob/main/7thday.md)
+
+[8THDAY](https://github.com/joyalpj573/internship/blob/main/8thday.md)
